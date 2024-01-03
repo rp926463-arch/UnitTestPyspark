@@ -1,0 +1,11 @@
+{
+  "sparkSessionProperties": {
+    "spark.executor.cores": "2",
+    "spark.cores.max": "4",
+    "spark.driver.memory": "2g",
+    "spark.executor.memory": "2g"
+  },
+  "appConfig": {
+    "EVENT_LOG_DIRECTORY": "/path/to/event/logs"
+  }
+}
